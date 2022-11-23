@@ -11,7 +11,7 @@ Welcome to my github let me tell you a little about myself:
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adib-raed-a9376823a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adib raed" height="30" width="40" /></a>
-<a href="adibraed1@gmail.com" >adibraed1@gmail.com </a>
+<p> adibraed1@gmail.com </p>
 </p>
 <br/>
 <br/>
