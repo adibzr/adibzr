@@ -12,7 +12,7 @@ Welcome to my github let me tell you a little about myself:
 <p align="left">
 <a href="https://www.linkedin.com/in/adib-raed-a9376823a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adib raed" height="30" width="40" /></a>
 <p> adibraed1@gmail.com </p>
-<a href="https://adibzr.github.io/portfolio/" >my portfolio</a>
+<a href="https://adibzr.github.io/portfolio/" target="_blank" >my portfolio</a>
 </p>
 <br/>
 <br/>
