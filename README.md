@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Adib Raed</h1>
-<h3 align="center">I'm a fullstack developer</h3>
+<h1 align="center">Hi 👋, My name is Adib Raed 👨‍💻</h1> 
+
+ <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Fullstack+Developer;Active+Learner;Problem+Solver;Team+Worker"></a></p>
+ 
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+  
 <br/>
 <p align="center">
 Welcome to my github let me tell you a little about myself:
@@ -8,26 +13,30 @@ Welcome to my github let me tell you a little about myself:
 </p>
 <!-- tech -->
 <br/>
-<h3 align="left">Here's what i'm good at</h3>
-<p align="left"> Javascript  </p>
-<p align="left"> TypeScript  </p>
-<p align="left"> React </p>
-<p align="left"> Redux-toolkit </p>
-<p align="left"> Firebase </p>
-<p align="left"> Tailwind </p>
-<p align="left"> MongoDB </p>
+
+<h3 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Here's what i'm good at</h3>
+
+- Javascript
+- TypeScript
+- React
+- Redux-toolkit
+- Firebase
+- Tailwind
+- MongoDB
+
+<br><br>
 <br/>
 
 <!-- contact -->
-<h3 align="left">Contact me:</h3>
-<p align="left">Must have <a href="https://www.linkedin.com/in/adib-raed-a9376823a/" target="blank">LinkedIn</a></p>
+<h3 align="left">☎️ Contact me:</h3>
+<p align="left">The must have: <a href="https://www.linkedin.com/in/adib-raed-a9376823a/" target="blank">LinkedIn</a></p>
 <p align="left">Check out my <a href="https://adibzr.github.io/portfolio/" target="_blank" >portfolio</a></p>
 <p align="left">and finally my e-mail: adibraed1@gmail.com</p>
 
 <br/>
 
 <!-- where im going -->
-<h3 align="left">Goals and dream</h3>
+<h3 align="left"> 🌟 Goals and dream </h3>
 <p>My biggest goal i to make a diference with my code</p>
 find new solutions for new problems, spearhead the way for other <br/> programmers in the future and learn all i can on the way.
 
