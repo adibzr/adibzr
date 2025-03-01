@@ -29,7 +29,7 @@ Welcome to my github let me tell you a little about myself:
 
 <!-- contact -->
 <h3 align="left">☎️ Contact me:</h3>
-<p align="left">The must have: <a href="https://www.linkedin.com/in/adib-raed-a9376823a/" target="blank">LinkedIn</a></p>
+<p align="left">The must have: <a href="https://www.linkedin.com/in/adib-raed/" target="blank">LinkedIn</a></p>
 <p align="left">Check out my <a href="https://adibzr.github.io/portfolio/" target="_blank" >portfolio</a></p>
 <p align="left">and finally my e-mail: adibraed1@gmail.com</p>
 
